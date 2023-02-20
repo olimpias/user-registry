@@ -10,7 +10,7 @@ You can configure the HTTP server port in `configuration.yaml`. Default port:800
 User Model:
 
 ```json
-{"name":"{username-name}, "id":{UserID}}
+{"name":"{username-name}", "id":"{UserID}"}
 ```
 
 ### Add a User
